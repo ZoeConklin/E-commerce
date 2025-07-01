@@ -68,13 +68,13 @@ li {
 }
 
 header {
-    height: calc(100vh - 80px);
+    min-height: calc(100vh - 80px);
 }
 
 .header__container {
     padding: 24px;
     width: 100%;
-    max-width: 720%;
+    max-width: 1200px;
     margin: 0 auto;
     height: 100%;
     display: flex;
@@ -119,14 +119,14 @@ button:active {
 }
 
 .header__img--wrapper {
-    height: 100%;
-    max-height: 50vh;
+    width: 70%;
     padding: 20px;
 }
 
 .container {
     padding: 56px 0;
 }
+
 
 .row {
     width: 100%;
