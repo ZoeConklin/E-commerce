@@ -89,7 +89,6 @@ li {
     font-size: 40px;
     border: none;
     color: #7342d6;
-    display: none;
 }
 
 .menu__backdrop {
@@ -261,7 +260,6 @@ HIGHLIGHTS
 
 .highlight__wrapper {
     display: flex;
-    max-width: 280px;
 }
 
 .highlight {
